@@ -32,18 +32,18 @@
 
 - **hh/mm/ss - hours : minutes : seconds**
 
-![](Aspose.Words.fad1b11b-8ba6-47ca-b580-3a91affeb766.001.jpeg)
+![](photoOne.jpeg)
 
 
 - **mm/ss - minutes : seconds**
 
-![](Aspose.Words.fad1b11b-8ba6-47ca-b580-3a91affeb766.002.jpeg)
+![](photoTwo.jpeg)
 
 
 
 
 - **only seconds**
 
-![](Aspose.Words.fad1b11b-8ba6-47ca-b580-3a91affeb766.003.jpeg)
+![](photoThree.jpeg)
 
 [^1]: Повече за т.нар. ASCII art, може да прочетете тук: <https://www.asciiart.eu/faq>
